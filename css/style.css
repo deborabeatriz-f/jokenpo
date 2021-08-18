@@ -1,0 +1,56 @@
+body {
+  margin: 0 auto;
+  padding-top: 120px;
+  background: linear-gradient(
+    110.6deg,
+    rgb(156, 116, 129) -18.3%,
+    rgb(67, 54, 74) 16.4%,
+    rgb(47, 48, 67) 68.2%,
+    rgb(27, 23, 36) 99.1%
+  );
+  color: rgba(250, 235, 215, 0.918);
+  background-repeat: round;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.botoes {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+#pedra {
+  color: rgb(41, 32, 46);
+  border: 2px rgb(41, 32, 46);
+  border-radius: 50%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-right: 10px;
+  background-color: antiquewhite;
+}
+
+#papel {
+  color: rgb(41, 32, 46);
+  border: 2px rgb(41, 32, 46);
+  border-radius: 50%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-right: 10px;
+  background-color: antiquewhite;
+}
+
+#tesoura {
+  color: rgb(41, 32, 46);
+  border: 2px rgb(41, 32, 46);
+  border-radius: 50%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: antiquewhite;
+}
